@@ -1,0 +1,26 @@
+body
+{
+    width: 85%;
+    margin: 0 auto;
+}
+table
+{
+    margin-top: 30px;
+}
+table th
+{
+    background: #eee;
+}
+table, th, tr, td
+{
+    border:1px solid gray;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+.input_reg
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+
